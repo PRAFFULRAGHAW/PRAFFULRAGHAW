@@ -22,7 +22,6 @@
 - **Version Control:** Git, GitHub
 - **Tools:** Visual Studio Code, intellij idea
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praffulraghaw&label=Profile%20views&color=0e75b6&style=flat" alt="praffulraghaw" /> </p>
 
 <p align="left"> <a href="https://twitter.com/praffulraghaw" target="blank"><img src="https://img.shields.io/twitter/follow/praffulraghaw?logo=twitter&style=for-the-badge" alt="praffulraghaw" /></a> </p>
 
@@ -56,7 +55,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRAFFULRAGHAW&show_icons=true&locale=en" alt="PRAFFULRAGHAW" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PRAFFULRAGHAW&" alt="PRAFFULRAGHAW" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praffulraghaw&" alt="PRAFFULRAGHAW" /></p>
 
 
 
