@@ -28,11 +28,11 @@
 
 - 🔭 I’m currently working on **Online Shopping Site**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://praffulraghaw.github.io/cv/](https://praffulraghaw.github.io/cv/)
 
-- 💬 Ask me about **Java DSA, SQL, Android**
+- 💬 Ask me about **Java DSA, SQL, Data Analyst**
 
 - 📫 How to reach me **praffulraghaw@gmail.com**
 
