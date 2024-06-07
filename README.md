@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prafful Raghaw</h1>
-<h3 align="center">MCA Student at Chandigarh University 🎓 💻 Software Developer | Machine Learning Enthusiast 🤖</h3>
+<h3 align="center">MCA Student at Chandigarh University 🎓 💻 Software Developer |</h3>
 
 
 ## 📚 Education
